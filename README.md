@@ -91,7 +91,7 @@ The investigations and sample evidence contained in this repository are intended
 
 ## Author
 
-**Max Innocent**
+**Yusra Farooq**
 
 BS Cyber Security Student
 
