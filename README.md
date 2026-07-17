@@ -50,21 +50,6 @@ Digital-Forensics-Incident-Response/
 └── Week-06/
 ```
 
----
-
-## Weekly Progress
-
-| Week | Topic |
-|------|-------|--------|
-| Week 01 | Email Evidence Handling & Phishing Analysis 
-| Week 02 | Disk Imaging & Evidence Acquisition 
-| Week 03 | Digital Evidence Analysis 
-| Week 04 | Memory & Artifact Analysis 
-| Week 05 | Incident Response Investigation 
-| Week 06 | Final DFIR Case Study 
-
----
-
 ## Skills Demonstrated
 
 - Digital Forensics
