@@ -54,7 +54,7 @@ Digital-Forensics-Incident-Response/
 
 ## Weekly Progress
 
-| Week | Topic | Status |
+| Week | Topic |
 |------|-------|--------|
 | Week 01 | Email Evidence Handling & Phishing Analysis 
 | Week 02 | Disk Imaging & Evidence Acquisition 
